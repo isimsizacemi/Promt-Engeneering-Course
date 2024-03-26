@@ -77,3 +77,21 @@ python highest_crypto_prices.py
 ## Katkı
 
 Katkılarınızı memnuniyetle karşılıyoruz! Projeye katkıda bulunmak için bir Issue açabilir veya bir Pull Request gönderebilirsiniz.
+
+
+
+
+
+# ÇIKTIMDA EKTEDİR.
+
+1. 42: 21143.73003782
+2. BULL2: 14755.0
+3. XTZBULL: 14335.0
+4. ADABULL: 11287.5
+5. WBTC: 9642.31376054
+6. BTC: 9515.57891943
+7. RBTC: 9513.98849856
+8. BTMXBULL: 8300.0
+9. TRYBBEAR: 6807.5
+10. USDTDOOM: 6585.0
+
